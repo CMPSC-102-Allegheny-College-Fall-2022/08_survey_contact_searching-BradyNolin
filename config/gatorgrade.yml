@@ -41,7 +41,7 @@
     check: MatchFileFragment
     options:
       fragment: "current_contact_job = contact_line[1]"
-      count: 1
+      count: 0
       exact: true
   - description: Create a sufficient number of docstring (i.e., multiple-line) comments in search.py
     check: CountMultipleLineComments

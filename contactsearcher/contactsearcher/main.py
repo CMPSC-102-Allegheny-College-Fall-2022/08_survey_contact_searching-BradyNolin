@@ -1,6 +1,6 @@
 """Define the command-line interface for the contact searching program."""
 
-# TODO: Add all of the required import statements to this module
+# Add all of the required import statements to this module
 import typer
 from pathlib import Path
 from typing import Optional
